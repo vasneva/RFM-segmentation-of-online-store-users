@@ -1,15 +1,17 @@
 # RFM-segmentation-of-online-store-users
 
-Необходимо провести RFM-анализ по данным интернет магазина 
 
-1. Определить границы подсегментов
-2. Сформировать сегменты пользователей
-3. Построить графики по полученным данным
-4. Описать полученные сегменты и сделать выводы
+Project Goals
 
-Описание данных: 
+An RFM analysis is needed based on the online store data.
 
-- InvoiceNo - номер счета
-- CustomerCode - идентификатор пользователя
-- InvoiceDate - дата оплаты счета
-- Amount - сумма покупки
+Define the boundaries of subsegments
+Create user segments
+Generate charts based on the results
+Describe the segments and draw conclusions
+Data Description
+
+InvoiceNo - invoice number
+CustomerCode - user identifier
+InvoiceDate - invoice payment date
+Amount - purchase amount
